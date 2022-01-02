@@ -1,0 +1,11 @@
+$mainWhite: #fff;
+$mainGrey: #efb5;
+$mainBlack: #000;
+@import 'styles/animation';
+@import 'styles/utils';
+
+body {
+    color: $mainBlack;
+    background-color: $mainWhite;
+    font-family: 'Roboto', sans-serif;;
+}
